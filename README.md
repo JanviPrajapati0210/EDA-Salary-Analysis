@@ -37,7 +37,7 @@ Perform Exploratory Data Analysis (EDA) on a salary dataset to extract useful in
 - **Pandas** – Data handling
 - **NumPy** – Numerical operations
 - **Matplotlib & Seaborn** – Data visualization
-- **Plotly** -optional interactive charts
+- **Plotly** -for interactive charts
 
 ---
 
